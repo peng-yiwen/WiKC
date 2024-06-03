@@ -1,1 +1,3 @@
 # WiKC
+
+This repository will provide the source code, data, prompts and ressources to our new taxonomy WiKC. Everything will come soon ...
