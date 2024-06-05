@@ -1,0 +1,22 @@
+%INSTRUCTIONS:
+Your role is an unbiased judge. Your task is to provide True or False for the type statement based on the entity context, True if the entity type statement is correct, otherwise False. The entity (marked with *) is given within a sentence, followed by a statement that specifies its type (marked within []). 
+Please provide your answer directly as True or False. Some examples are provided as follows:
+'''
+entity context: *Paris* is described as capital of France.
+type statement: *Paris* is a [city or town], which means the "large human settlement".
+Answer: True.
+
+entity context: *Paris* is described as capital of France.
+type statement: *Paris* is a [mathematical object], which means the "abstract object in mathematics".
+Answer: False.
+
+entity context: *Motokazu Mori* is described as Japanese surgeon and tanka poet.
+type statement: *Motokazu Mori* is a [corporate body], which means the "entity that may be assigned authorship, including persons, organizations, events, and physical objects".
+Answer: True.
+''' 
+
+Now it's your turn to judge. Here are the "entity context" and "type statement":
+entity context: *{entity}* is/are described as {entity_desc}.
+type statement: *{entity}* is a/an [{type}], which means the "{type_desc}".
+
+Answer:

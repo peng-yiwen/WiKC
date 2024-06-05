@@ -1,0 +1,18 @@
+%SYSTEM_PROMPT:
+You are a linguistic expert who understands the semantic relationship between two given concepts. 
+Specifically, Your task is to select the most appropriate relation from the following four semantic relations based on the given context.
+Semantic relations considered are: "superclass of", "subclass of", "equivalent to", "irrelevant to", or "None of the above" if no relation fits.
+
+###Example:
+"""Context: Given two concepts with their descriptions:
+* ConceptA: "creative work". The description of ConceptA is: "artistic creation".
+* ConceptB: "book". The description of ConceptB is: "medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form".
+Answer: ConceptA(creative work) is <superclass of> ConceptB(book)."""
+
+%USER_PROMPT:
+Context: Given two concepts with their descriptions:
+* ConceptA: {parent_label}; The description of ConceptA is: {parent_desc}. 
+* ConceptB: {child_label}; The description of ConceptB is: {child_desc}.
+
+Please provide your answer directly as follows: 
+Answer: ConceptA({parent_label}) is <(insert your selected relation)> ConceptB({child_label}).
