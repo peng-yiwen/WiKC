@@ -11,6 +11,10 @@ The Wikidata dump can be accessed through the [website](https://dumps.wikimedia.
 - All intermediate taxonomies from the refining steps
 - Additional data resources crawled from the data dump, such as instance counts for each class, labels and descriptions for each class, and mappings between Wikipedia and Wikidata, etc.
 
+### License
+Our data is mainly derived from information extracted from Wikidata, which is used under the terms of the [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license and WiKC is also distributed under the same license.
+
+
 ## Approach
 
 We provide the source code for the pipeline used to clean a taxonomy, enabling others to use it for their own taxonomy cleaning needs. Specifically:
