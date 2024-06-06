@@ -25,7 +25,7 @@ We provide the source code for the pipeline used to clean a taxonomy, enabling o
 - Evaluation is done using LLM-as-a-Judge. The data and code for evaluation are provided separately in the `data` and `eval&visualize` folders.
 - You can visualize specific taxonomic paths or generate an HTML file for the taxonomy using the code within the `eval&visualize` folder.
 
-**Note**: All prompts, including those for evaluation and semantic prediction, are provided in the `prompts` folder for reuse by others.
+**Note**: All prompts, including those for evaluation and semantic prediction, are provided in the `prompts` folder for reuse by others.  `results` folder store the outputs of LLM for both semantic prediction and entity typing evaluation.
 
 ## Acknowledgment
 
