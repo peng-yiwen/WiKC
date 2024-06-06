@@ -6,10 +6,10 @@ This repository provides the source code, data resource, outputs of LLM promptin
 
 The Wikidata dump can be accessed through the [website](https://dumps.wikimedia.org/wikidatawiki/). In the `data` folder, we provide the following resources mainly extracted from the data dump:
 
-- WiKC (a cleaned version of the Wikidata taxonomy), and the mapping file from WiKC to Wikidata (as some classes are merged)
-- Entity typing data for extrinsic evaluation
-- All intermediate taxonomies from the refining steps
-- Additional data resources crawled from the data dump, such as instance counts for each class, labels and descriptions for each class, and mappings between Wikipedia and Wikidata, etc.
+- WiKC (a cleaned version of the Wikidata taxonomy) structured as NT format, and the mapping tsv from WiKC to Wikidata (as some classes are merged)
+- `evaluation`: Entity typing data for extrinsic evaluation
+- `taxonomies`: All intermediate taxonomies from the refining steps
+- `additional`/ `wikipedia`: Additional data resources crawled from the data dump, such as instance counts for each class, labels and descriptions for each class, and mappings between Wikipedia and Wikidata, etc.
 
 
 ## Approach
