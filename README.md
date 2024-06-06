@@ -1,6 +1,6 @@
 # WiKC
 
-This repository provides the source code, data resource, outputs of LLM prompting, and evaluation results. The project is licensed under the MIT license.
+This repository provides the source code, data resource, outputs of LLM prompting, and evaluation results.
 
 ## Data
 
