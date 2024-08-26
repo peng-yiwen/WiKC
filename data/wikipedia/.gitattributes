@@ -1,0 +1,5 @@
+arwiki filter=lfs diff=lfs merge=lfs -text
+dewiki filter=lfs diff=lfs merge=lfs -text
+enwiki filter=lfs diff=lfs merge=lfs -text
+frwiki filter=lfs diff=lfs merge=lfs -text
+zhwiki filter=lfs diff=lfs merge=lfs -text
