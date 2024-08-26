@@ -1,0 +1,431 @@
+qid,itemLabel
+wd:Q28640,profession
+wd:Q32880,architectural style
+wd:Q188451,music genre
+wd:Q190087,data type
+wd:Q223393,literary genre
+wd:Q483394,genre
+wd:Q627436,field of work
+wd:Q636033,archive type
+wd:Q659563,video game genre
+wd:Q716676,class of computers
+wd:Q811102,building type
+wd:Q862597,musical form
+wd:Q864866,type of biotope
+wd:Q997433,dependent type
+wd:Q1063547,voice type
+wd:Q1194240,science fiction genre
+wd:Q1307214,form of government
+wd:Q1792379,art genre
+wd:Q1792644,art style
+wd:Q1803829,landscape type
+wd:Q2933978,radio play genre
+wd:Q3100808,photography genre
+wd:Q3546112,insurance type
+wd:Q3546121,type of cheese
+wd:Q4178140,anime and manga genre
+wd:Q4263830,literary form
+wd:Q4442611,fashion style
+wd:Q4903281,biblical genre
+wd:Q4942576,bonsai style
+wd:Q5127848,class
+wd:Q5151404,comedic genre
+wd:Q6630149,narrative form
+wd:Q7099018,option style
+wd:Q7311707,speaker type
+wd:Q7534137,skateboarding style
+wd:Q7604387,statistical data type
+wd:Q7777573,theatrical genre
+wd:Q7860953,type of marriage
+wd:Q9363686,lake type
+wd:Q10926413,soil type
+wd:Q11556633,flow type
+wd:Q11668217,type of station
+wd:Q12046615,feature type
+wd:Q12104030,epic literary genre
+wd:Q12119802,lyric poetry genre
+wd:Q12343431,television series genre
+wd:Q13405586,non-fiction literature genre
+wd:Q15729598,coachwork type
+wd:Q15961983,radio genre
+wd:Q16743958,genre of painting
+wd:Q16889133,class
+wd:Q17155032,software category
+wd:Q17166135,type of socialism
+wd:Q17399019,style of painting
+wd:Q18169332,lichen growth form
+wd:Q18195680,shoe style
+wd:Q18783400,genre of sculpture
+wd:Q19832479,vessel class
+wd:Q19861951,type of food or dish
+wd:Q20076756,speculative/fantastic fiction genre
+wd:Q20087698,comic genre
+wd:Q20643324,opera genre
+wd:Q20644555,fantasy genre
+wd:Q20656220,thriller genre
+wd:Q20819322,tattoo style
+wd:Q20819739,competition type
+wd:Q20829075,type of language
+wd:Q21146257,type
+wd:Q22675015,type of quantum particle
+wd:Q22676255,aircraft lift-undercarriage class
+wd:Q22676262,aircraft power-undercarriage class
+wd:Q23012297,type of electricity transmission
+wd:Q24017852,pottery style
+wd:Q28149961,type of fruit
+wd:Q28923954,languoid class
+wd:Q38786485,form of communication
+wd:Q39725049,type of publication
+wd:Q45971958,performing arts genre
+wd:Q49148153,pornography genre
+wd:Q50002046,type of magnets
+wd:Q56055944,type of arts
+wd:Q56116950,film award category
+wd:Q56147411,rug style
+wd:Q62027158,type of dam
+wd:Q63244467,family-specific aircraft model class
+wd:Q63244922,aircraft manufacturer class
+wd:Q63718619,type of law
+wd:Q63981612,product category
+wd:Q63982911,type of museum
+wd:Q66152509,boardgame genre
+wd:Q67543045,aircraft function-undercarriage class
+wd:Q69130097,aircraft function-lift-undercarriage class
+wd:Q78088984,study type
+wd:Q81947509,album type
+wd:Q98966309,classification of human settlements
+wd:Q106428284,aircraft lift-power-undercarriage class
+wd:Q106428953,aircraft function-lift-power-undercarriage class
+wd:Q106428974,aircraft function-power-undercarriage class
+wd:Q106621729,folk music genre
+wd:Q106628249,world music genre
+wd:Q106901436,type of documents of PRC governments
+wd:Q107317889,type of record label
+wd:Q107356781,song type
+wd:Q107357104,type of dance
+wd:Q107359024,class of election
+wd:Q107467117,type of award
+wd:Q107478770,document genre
+wd:Q107487333,type of musical work/composition
+wd:Q107547436,theatre award category
+wd:Q107547743,circus award category
+wd:Q107547950,music award category
+wd:Q107549740,television award category
+wd:Q107549741,radio award category
+wd:Q107551175,game genre
+wd:Q107975727,rock genre
+wd:Q108028209,designation type
+wd:Q108317211,novel genre
+wd:Q108465955,fiction genre
+wd:Q108466143,non-fiction genre
+wd:Q108586636,form of event
+wd:Q108676140,audio content genre
+wd:Q108680062,form of festival
+wd:Q109542218,class of parts
+wd:Q109598321,literary style
+wd:Q110013851,type of theatrical work
+wd:Q110169000,type of literary work
+wd:Q110220157,poetry genre
+wd:Q110295396,type of musical instrument
+wd:Q110314665,type of error
+wd:Q110401222,religion type
+wd:Q110401282,type of world view
+wd:Q83206698,street light style
+wd:Q89522629,poetic form
+wd:Q96116695,type of system
+wd:Q96195030,jazz genre
+wd:Q96200402,electronic music genre
+wd:Q96247293,type of management
+wd:Q96251375,type of policy
+wd:Q96251598,type of object
+wd:Q96264607,type of security
+wd:Q96273743,type of test
+wd:Q96338860,type of garden
+wd:Q96758092,type of regulation and control
+wd:Q98038492,membership type
+wd:Q100912473,type of bias
+wd:Q101208084,type of risk
+wd:Q103110540,anime genre
+wd:Q103112098,manga genre
+wd:Q103812529,organ type
+wd:Q104098715,territorial entity type
+wd:Q104624828,book form
+wd:Q104822033,podcast genre
+wd:Q105635529,blues genre
+wd:Q105756498,type of musical ensemble/group
+wd:Q106043376,music release type
+wd:Q106179098,sailboat class
+wd:Q106238462,genre of piyyut
+wd:Q123518708,audiobook genre
+wd:Q123574795,type of political party
+wd:Q123588392,type of tool
+wd:Q124027012,type of animated work
+wd:Q124709316,type of inscription
+wd:Q124867660,type of war
+wd:Q124996351,processor type
+wd:Q125005976,type of computer memory or storage
+wd:Q110403031,knowledge type
+wd:Q110430875,type of legislation
+wd:Q110562117,form of television program
+wd:Q110900120,type of cinematic work
+wd:Q111360549,object genre
+wd:Q111796904,type of equilibrium
+wd:Q111972893,type of structure
+wd:Q112057532,type of technology
+wd:Q112248470,type of dramatico-musical work
+wd:Q112265308,type of fictional character
+wd:Q112859321,aircraft operator-model class
+wd:Q112872396,type of educational institution
+wd:Q113145171,type of chemical entity
+wd:Q113749699,grant type
+wd:Q113813711,coin type
+wd:Q115980997,class of Pokémon species
+wd:Q116374620,horror genre
+wd:Q116392487,pizza style
+wd:Q116460050,asset type
+wd:Q116474095,type of work of art
+wd:Q116479606,two-dimensional visual artwork genre
+wd:Q116479765,type of poster
+wd:Q116481801,type of programming language
+wd:Q116505632,type of process
+wd:Q116518880,narrative genre
+wd:Q116861721,type of drink
+wd:Q117422294,type of book
+wd:Q117422360,drama genre
+wd:Q119520394,type of writing system
+wd:Q119892838,type of mixture of chemical entities
+wd:Q119896085,type of polymer
+wd:Q121132955,type of mass media
+wd:Q121344523,type of classification
+wd:Q121551339,type of accident
+wd:Q122841050,card game type
+wd:Q122985379,animation style
+wd:Q123099254,class of explosives
+wd:Q123345464,type of interaction
+wd:Q28640,profession
+wd:Q31629,type of sport
+wd:Q189118,cell type
+wd:Q201658,film genre
+wd:Q559026,ship class
+wd:Q811704,rolling stock class
+wd:Q831878,form of business
+wd:Q1074550,integrated circuit packaging type
+wd:Q1246687,German cheese type
+wd:Q1266830,Pokémon type
+wd:Q1428357,submarine class
+wd:Q1493054,type of wood
+wd:Q1744559,classification in sports
+wd:Q1797012,video compression picture type
+wd:Q1840368,cloud type
+wd:Q1875621,aircraft class
+wd:Q1998962,beer style
+wd:Q2125374,radar type
+wd:Q2235308,ship type
+wd:Q2625877,type of pasta
+wd:Q7860950,type of earthquake
+wd:Q7860962,road type
+wd:Q10541491,legal form
+wd:Q12737077,occupation
+wd:Q15961987,television genre
+wd:Q16103215,boat type
+wd:Q16335899,watercraft type
+wd:Q17197366,type of organisation
+wd:Q17444909,astronomical object type
+wd:Q18758641,watercraft class
+wd:Q19832479,vessel class
+wd:Q19832486,locomotive class
+wd:Q19845316,cryptographic attack type
+wd:Q20027953,aircraft functional class
+wd:Q21506450,military unit size class
+wd:Q22675015,type of quantum particle
+wd:Q22811462,type of manufactured good
+wd:Q23905069,military unit type class
+wd:Q23905071,military unit type-size class
+wd:Q24016972,type of distinction
+wd:Q24574728,form factor
+wd:Q25397890,type of library
+wd:Q25894868,place type
+wd:Q27555265,memory type
+wd:Q27926484,cheese type
+wd:Q27972125,type of daytime minute
+wd:Q28530564,software version type
+wd:Q28854784,type of costume
+wd:Q30079464,type of Spanish organization
+wd:Q31073241,camera type
+wd:Q33082993,class of fictional robots
+wd:Q33294038,class of mythical entities
+wd:Q38033430,class of award
+wd:Q41362222,type of map
+wd:Q42014143,biomedical measurand type
+wd:Q44409287,type of machine element
+wd:Q44575957,surgical instrument type
+wd:Q44580842,medical device type
+wd:Q45296117,aircraft type
+wd:Q47103999,type of statistic
+wd:Q47279819,type of mathematical function
+wd:Q47460393,type of number
+wd:Q47989961,biological process type
+wd:Q49695242,restriction enzyme type
+wd:Q50002046,type of magnets
+wd:Q50319430,tender class
+wd:Q53607681,Japanese conjugation class
+wd:Q53727404,Japanese accent class
+wd:Q53996674,conjugation class
+wd:Q54445847,type of economic interaction
+wd:Q55214844,medical procedure type
+wd:Q55215251,medical test type
+wd:Q55215846,surgical procedure type
+wd:Q56036262,muscle contraction type
+wd:Q56633378,inflection class
+wd:Q56887437,bus type
+wd:Q57663695,toy type
+wd:Q61657235,electricity pylon type
+wd:Q62097898,type of mahjong tile
+wd:Q62933756,military unit branch-type-size class
+wd:Q62933848,military unit branch-type class
+wd:Q62933934,military unit branch class
+wd:Q62934160,military unit class
+wd:Q62934264,military unit branch-size class
+wd:Q63040753,rail motor coach class
+wd:Q63040754,multiple unit class
+wd:Q96273743,type of test
+wd:Q103812529,organ type
+wd:Q103812671,anatomical entity type
+wd:Q103813284,nerve type
+wd:Q103813362,artery type
+wd:Q103813440,muscle organ type
+wd:Q103813670,anatomical structure type
+wd:Q103813744,vein type
+wd:Q103820425,physical anatomical entity type
+wd:Q103843025,tissue type
+wd:Q103843031,lymph node type
+wd:Q103843042,organism subdivision type
+wd:Q103843052,brain region type
+wd:Q103843146,bone organ type
+wd:Q103903440,anatomical set type
+wd:Q103907369,biogenic substance type
+wd:Q103910290,anatomical relation type
+wd:Q103914748,anatomical structure class type
+wd:Q103915493,localized structure class type
+wd:Q103919392,anatomical surface type
+wd:Q103933272,general anatomical term type
+wd:Q103938415,organ region type
+wd:Q103982366,chiral anatomical structure type
+wd:Q103982390,chiral bone type
+wd:Q103982720,solitary anatomical structure type
+wd:Q103995117,medical entity type
+wd:Q103995757,solitary bone organ type
+wd:Q103995937,solitary organ type
+wd:Q103998385,solitary muscle organ type
+wd:Q104001601,neural tree organ type
+wd:Q104007623,anatomical entity class type
+wd:Q104007910,solitary anatomical entity type
+wd:Q104008567,solitary anatomical set type
+wd:Q104011233,solitary anatomical surface type
+wd:Q104011917,anatomical point type
+wd:Q104012328,solitary anatomical point type
+wd:Q104012628,anatomical line type
+wd:Q104013124,solitary anatomical line type
+wd:Q104014303,anatomical junction type
+wd:Q104015645,developmental structure type
+wd:Q104018785,medical attribute type
+wd:Q104018996,ECG waveform type
+wd:Q104019063,cardiac sound type
+wd:Q104025222,taxon body type
+wd:Q104025262,sex-specific taxon body type
+wd:Q104027169,anatomical system type
+wd:Q104030742,taxon entity class type
+wd:Q104086571,first-order class
+wd:Q104098715,territorial entity type
+wd:Q104145196,biogenic substance type
+wd:Q104852483,cell class
+wd:Q105839345,type of respirator
+wd:Q105967696,vaccine type
+wd:Q106179098,sailboat class
+wd:Q106571426,container class
+wd:Q107509287,class of protein-containing complexes
+wd:Q110402867,classification system of knowledge
+wd:Q117349475,artificial intelligence model type
+wd:Q118134020,trolleybus type
+wd:Q118733356,type of tropical cyclone
+wd:Q118733505,type of subtropical cyclone
+wd:Q118733509,type of extratropical cyclone
+wd:Q118733512,type of cyclone
+wd:Q118733587,type of meteorological phenomenon
+wd:Q118905629,type of Roman Catholic institution
+wd:Q120281892,type of statistical model
+wd:Q120733712,prosodic class
+wd:Q121144069,type of statistical method
+wd:Q121144515,type of religious institution
+wd:Q121144598,type of Christian institution
+wd:Q121289722,boat class
+wd:Q123437946,chiral joint type
+wd:Q124315169,vehicle functional class
+wd:Q124714367,type of atlas
+wd:Q124729086,Hausa tone class
+wd:Q125037998,ITU radiocommunication service type
+wd:Q125052658,ITU radio station type
+wd:Q112193867,class of disease
+wd:Q112807602,type of social group
+wd:Q112826905,class of anatomical entity
+wd:Q112872396,type of educational institution
+wd:Q112875112,type of public key
+wd:Q113056217,gland type
+wd:Q113057337,organ part type
+wd:Q113070519,solitary organ part type
+wd:Q113070620,artificial anatomical entity type
+wd:Q113130744,incidental bone organ type
+wd:Q113130748,incidental anatomical entity type
+wd:Q113130789,anatomical cluster type
+wd:Q113130805,joint type
+wd:Q113130993,ligament type
+wd:Q113131065,hair type
+wd:Q113131459,species anatomical structure type
+wd:Q113131469,species organ type
+wd:Q113131499,tooth type
+wd:Q113131507,sex-specific anatomical entity type
+wd:Q113131511,sex-specific organ type
+wd:Q113131532,solitary sex-specific organ type
+wd:Q113131576,sex-specific anatomical structure class type
+wd:Q113136790,chiral anatomical entity type
+wd:Q113136795,chiral anatomical set type
+wd:Q113136801,chiral anatomical surface type
+wd:Q113136807,chiral anatomical point type
+wd:Q113136810,chiral anatomical line type
+wd:Q113136815,chiral organ type
+wd:Q113136824,chiral anatomical class type
+wd:Q113136859,chiral organ part type
+wd:Q113137310,chiral nerve type
+wd:Q113137326,serous sac type
+wd:Q113137335,chiral serous sac type
+wd:Q113137337,solitary serous sac type
+wd:Q113137439,muscle organ zone type
+wd:Q113147206,species organism subdivision type
+wd:Q113147341,chiral organism subdivision type
+wd:Q113147985,solitary organism subdivision type
+wd:Q113152870,tone or pitch accent class
+wd:Q113166634,Punjabi tone class
+wd:Q113457518,skin type
+wd:Q113481693,species anatomical system type
+wd:Q113487186,type of mosque
+wd:Q113551581,anatomical space type
+wd:Q113551587,chiral anatomical space type
+wd:Q113551592,solitary anatomical space type
+wd:Q113551737,sex-specific organism subdivision type
+wd:Q113551742,sex-specific anatomical structure type
+wd:Q113551758,sex-specific solitary organism subdivision type
+wd:Q113563578,solitary ligament type
+wd:Q113563583,chiral ligament type
+wd:Q113563905,solitary anatomical cluster type
+wd:Q113563925,chiral anatomical cluster type
+wd:Q113571289,anatomical space class type
+wd:Q113571314,sex-specific solitary anatomical space type
+wd:Q113640427,"Punjabi, Saraiki, Hindko, Dogri adjective class"
+wd:Q113655408,Punjabi food noun class
+wd:Q113655596,Punjabi noun class
+wd:Q113675210,Dogri tone class
+wd:Q114570820,rocket class
+wd:Q115483827,sex-specific tissue type
+wd:Q116123132,lens type
+wd:Q116766962,Hindustani adjective class
+wd:Q117023459,type of institution
