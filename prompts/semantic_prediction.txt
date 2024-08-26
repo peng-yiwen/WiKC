@@ -1,0 +1,14 @@
+%Instructions:
+You are a linguistic expert who understands the semantic relationship between concepts. Your task is to determine the most appropriate semantic relation between two provided concepts based on the available labels and descriptions. The potential relationships are: "superclass of", "subclass of", "equivalent to", "irrelevant to", or "None" if none applies. You should select exclusively from these reation options and not introduce or imply other relationships.
+
+Please structure your response as follows:
+Response::: 
+Explanation: (your analysis of the semantic relation between two concepts).
+Answer: (state the relationship directly, e.g., "ConceptA is [relationship] ConceptB.")
+
+%User Message:
+Examine the relationship between the following two concepts, each described below:
+* ConceptA: labeled as "{parent_label}", described as "{parent_desc}".
+* ConceptB: labeled as "{child_label}", described as "{child_desc}".
+
+Response:::

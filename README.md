@@ -1,31 +1,34 @@
 # WiKC
 
-This repository provides the source code, data resource, outputs of LLM prompting, and evaluation results. The project is licensed under the MIT license.
+This repository provides the source code, data resource, outputs of LLM prompting, and evaluation results for the academic paper **Refining Wikidata Taxonomy using Large Language Models**. The project is licensed under the MIT license.
 
 ## Data
 
-The Wikidata dump can be accessed through the [website](https://dumps.wikimedia.org/wikidatawiki/). In the `data` folder, we provide the following resources mainly extracted from the data dump:
+The Wikidata dump can be accessed through the [website](https://dumps.wikimedia.org/wikidatawiki/). In the `data` folder, we provide the following resources mainly extracted from the data dump (dated March 22, 2024):
 
-- WiKC (a cleaned version of the Wikidata taxonomy) structured as NT format, and the mapping tsv from WiKC to Wikidata (as some classes are merged)
+- WiKC (a cleaned version of the Wikidata taxonomy) structured as NT format (also TSV format, HTML format for visualization), and a mapping tsv from WiKC to Wikidata (as some classes are merged).
+- `wikidata`: Useful data resources crawled from the data dump, such as direct instance counts for each class; labels and descriptions for each class; metaclasses used in Taxonomy Extraction; identifiers which should be excluded in properties...etc.
+- `wikipedia`: Mappings between Wikipedia and Wikidata in different languages.
 - `evaluation`: Entity typing data for extrinsic evaluation
 - `taxonomies`: All intermediate taxonomies from the refining steps
-- `additional`/ `wikipedia`: Additional data resources crawled from the data dump, such as instance counts for each class, labels and descriptions for each class, and mappings between Wikipedia and Wikidata, etc.
 
 
 ## Approach
 
-We provide the source code for the pipeline used to clean a taxonomy, enabling others to use it for their own taxonomy cleaning needs. Specifically:
+We provide the source code for the refinement pipeline used to clean a taxonomy, enabling others to reuse it for their own taxonomy cleaning needs. Specifically:
 
-1. `data-mining-scripts`: Source code for taxonomy extraction
-2. `llm_prompt.py`: for semantic predictions using LLM
-3. `clean.ipynb`: for cleaning steps using graph mining techniques
+1. `data_mining_scripts`: Source code for Taxonomy Extraction (from data dump)
+2. `llm_predict.py`: Semantic prediction by zero-shot prompting on LLMs
+3. `clean.ipynb`: Refinement steps using graph mining techniques
+4. `reprompt.py`: Part of the **Rewire** step during the refinement
 
 ### Evaluation & Visualization
 
-- Evaluation is done using LLM-as-a-Judge. The data and code for evaluation are provided separately in the `data` and `eval&visualize` folders.
-- You can visualize specific taxonomic paths or generate an HTML file for the taxonomy using the code within the `eval&visualize` folder.
+- Evaluation is conducted from both intrinsic and extrinsic perspectives, and use LLM-as-a-Judge for the entity typing task in extrinsic evaluation.
+- The data for extrinsic evaluation are provided in the `data/evaluation` where `dataset.ipynb` presents our method for generating the evaluation dataset.
+- The specific taxonomic paths can be visualized in both svg graph or html format through `draw.ipynb`.
 
-**Note**: All prompts, including those for evaluation and semantic prediction, are provided in the `prompts` folder for reuse by others.  `results` folder store the outputs of LLM for both semantic prediction and entity typing evaluation.
+**Note**: All prompts, including those for evaluation and semantic prediction, are provided in the `prompts` folder for reuse by others.  `results` folder store the outputs of LLM for both semantic prediction and entity typing evaluation. Every time you change the file you want to run, you need to change the file path in `config.ini`.
 
 ## Acknowledgment
 

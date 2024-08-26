@@ -1,1 +1,0 @@
-Please download additional ressources from [Google Dirve](https://drive.google.com/drive/folders/1CKqY0T6kbnbvTIUDWpaizfHJ3tE8oVhe?usp=sharing). Additional ressources include class labels and descriptions, the instance or class resource.
